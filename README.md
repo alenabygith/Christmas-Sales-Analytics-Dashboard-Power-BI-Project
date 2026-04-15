@@ -13,11 +13,11 @@ The project demonstrates skills in **data cleaning, transformation, and business
 
 ## Main Sales Dashboard
 
-![Main Dashboard](images/dashboard_main.png)
+![Main Dashboard](dashboard_main.png)
 
 ## Detailed Analysis Dashboard
 
-![Detailed Dashboard](images/dashboard_analysis.png)
+![Detailed Dashboard](dashboard_analysis.png)
 
 ---
 
